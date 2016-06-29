@@ -1,0 +1,8 @@
+CREATE TABLE locations
+(location_id int unique,
+street_address text not null,
+postal_code text,
+city varchar(20) not null,
+state_province text,
+country_id char(2) not null
+);

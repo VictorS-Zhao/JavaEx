@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 22 10:28:09 CST 2016:
+ 正在使用类加载器 sun.misc.Launcher$AppClassLoader@234f79cb 引导数据库
+目录 /Users/yulongzhao/JavaEx/JDBCEx/JDBCTutorial/testdb  中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835) 实例 a816c00e-0155-75ef-abf7-00000691a698
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=/Users/yulongzhao/JavaEx/JDBCEx/JDBCTutorial
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.5
+derby.system.home=null
+数据库类装入器已启动 － derby.database.classpath=“”

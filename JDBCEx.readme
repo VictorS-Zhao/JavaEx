@@ -1,0 +1,7 @@
+
+$ java -jar $DERBY_HOME/lib/derbyrun.jar ij
+ij 版本 10.8
+ij> connect 'jdbc:derby:lldb;user=ll;password=LL';
+ij> help
+> ;
+

@@ -17,5 +17,12 @@ public class TestMath {
 		System.out.println("floor("+n+"): "+Math.floor(n));
 		System.out.println("rint("+n+"): "+Math.rint(n));
 		System.out.println("round("+n+"): "+Math.round(n));
+
+		System.out.print("Input a number: ");
+		int n1 = input.nextInt();
+		System.out.print("Input another number: ");
+		int n2 = input.nextInt();
+		System.out.println("ceil(1.0*"+n1+"/"+n2+"): "+Math.ceil(1.0*n1/n2));
+		System.out.println("round("+n1+"/"+n2+"): "+Math.round(n1/n2));
 	}
 }
